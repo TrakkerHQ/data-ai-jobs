@@ -253,6 +253,17 @@
     "date_discovered": "2026-09-09T21:12:47.583455+00:00"
   },
   {
+    "id": 7956904,
+    "company_display": "Activision",
+    "title": "Activision 2027 Summer Internships - User Research Data Analytics",
+    "location": "Sherman Oaks, California, USA",
+    "url": "https://xboxgaming.wd1.myworkdayjobs.com/External/job/Sherman-Oaks/Activision-2027-Summer-Internships---User-Research-Data-Analytics_R028046/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-09T00:00:00+00:00",
+    "date_discovered": "2026-09-09T21:14:39.094678+00:00"
+  },
+  {
     "id": 7963370,
     "company_display": "Dominion Energy",
     "title": "Intern Associate Business Intelligence Analyst (Grid Resiliency Richmond, VA)",
@@ -570,17 +581,6 @@
     "country": "us",
     "updated_at": "2026-09-10T15:54:02+00:00",
     "date_discovered": "2026-09-10T16:24:09.776863+00:00"
-  },
-  {
-    "id": 8108748,
-    "company_display": "BAE Systems",
-    "title": "Entry Level Software Engineer (Hybrid)",
-    "location": "Rome, New York, USA",
-    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=303955",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-10T16:05:06.430000+00:00",
-    "date_discovered": "2026-09-10T16:33:26.738209+00:00"
   },
   {
     "id": 8130865,
@@ -1221,17 +1221,6 @@
     "date_discovered": "2026-09-11T19:09:25.593842+00:00"
   },
   {
-    "id": 8577962,
-    "company_display": "Crowe",
-    "title": "MSFT AI Business Solutions Project Coordinator Intern",
-    "location": "Chicago, Illinois, USA",
-    "url": "https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Chicago-IL-USA/D365-ERP-Project-Coordinator-Intern_R-71038/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-11T00:00:00+00:00",
-    "date_discovered": "2026-09-11T19:09:25.598254+00:00"
-  },
-  {
     "id": 8579621,
     "company_display": "Lyft",
     "title": "Data Analyst Intern (Summer 2027)",
@@ -1274,6 +1263,17 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-09-11T20:06:35.566844+00:00"
+  },
+  {
+    "id": 8601567,
+    "company_display": "BAE Systems",
+    "title": "Junior Developer \u2014 AI Harness Development",
+    "location": "McLean, Virginia, USA",
+    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=304049",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-11T20:05:00.377000+00:00",
+    "date_discovered": "2026-09-11T20:12:46.665800+00:00"
   },
   {
     "id": 8605771,
@@ -2552,15 +2552,15 @@
     "date_discovered": "2026-09-15T06:13:47.309127+00:00"
   },
   {
-    "id": 9646670,
+    "id": 9646671,
     "company_display": "Franklin-Templeton",
-    "title": "Intern (BSP - Alternative Credit/ AI Automation)",
+    "title": "Intern (Multi-Asset/ Investment Strategy)",
     "location": "Singapore",
-    "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/SGP-SG234-Singapore/Intern--BSP---Alternative-Credit--AI-Automation-_869532/apply",
+    "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/Singapore-Singapore/Intern--Multi-Asset--Investment-Strategy-_869440/apply",
     "skill_level": "intern",
     "country": "international",
     "updated_at": "2026-09-15T00:00:00+00:00",
-    "date_discovered": "2026-09-15T06:17:53.790789+00:00"
+    "date_discovered": "2026-09-15T06:17:53.794765+00:00"
   },
   {
     "id": 9662897,
@@ -2847,17 +2847,6 @@
     "country": "us",
     "updated_at": "2026-09-15T21:07:34.760000+00:00",
     "date_discovered": "2026-09-15T21:07:49.618136+00:00"
-  },
-  {
-    "id": 9927117,
-    "company_display": "BCG",
-    "title": "[Banco de Talentos] Delivery AI Engineering Entry Level, Brazil - X Delivery",
-    "location": "Brazil",
-    "url": "https://studenttalent.bcg.com/careerhub/explore/jobs/790318492422?post_onboarding_pid=790318492422&amp;show_apply=1&amp;profile_type=candidate&amp;customredirect=1&utm_source=Phenom",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-09-15T00:00:00+00:00",
-    "date_discovered": "2026-09-15T21:20:43.762709+00:00"
   },
   {
     "id": 9927118,
@@ -3377,17 +3366,6 @@
     "date_discovered": "2026-09-17T01:15:45.032197+00:00"
   },
   {
-    "id": 10519352,
-    "company_display": "Oshkosh",
-    "title": "Supply Chain Intern - Data Analytics & AI",
-    "location": "Hagerstown, Maryland, USA",
-    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Supply-Chain-Intern---Data-Analytics---AI_R49953-1/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-16T00:00:00+00:00",
-    "date_discovered": "2026-09-17T01:54:01.166566+00:00"
-  },
-  {
     "id": 10526786,
     "company_display": "TD Bank",
     "title": "TD Insurance Governance & Control Strategy & Transformation Intern/Co-op (Winter 2027)",
@@ -3905,6 +3883,17 @@
     "date_discovered": "2026-09-18T11:01:55.520562+00:00"
   },
   {
+    "id": 11097018,
+    "company_display": "Ericsson",
+    "title": "New Grad-Test Platform Dev. Engineer-AI",
+    "location": "Beijing, China",
+    "url": "https://ericsson.eightfold.ai/careers/job/563121777227267",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-09-18T11:10:16.158879+00:00"
+  },
+  {
     "id": 11104301,
     "company_display": "Genentech",
     "title": "Data Science Industrial Placement - Multiple roles within Biostats, Data Management, Real-World Data and more",
@@ -4378,17 +4367,6 @@
     "date_discovered": "2026-09-21T12:36:46.803763+00:00"
   },
   {
-    "id": 12044249,
-    "company_display": "Danaher",
-    "title": "Junior Business Analyst \u2013 Finance & Commercial Operations",
-    "location": "Centurion, Gauteng, South Africa",
-    "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Centurion-Gauteng-South-Africa/Junior--Intern--Business-Analyst---Finance---Commercial-Operations_R1315703/apply",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-09-21T00:00:00+00:00",
-    "date_discovered": "2026-09-21T12:50:54.933897+00:00"
-  },
-  {
     "id": 12045198,
     "company_display": "ABB",
     "title": "Operations Analytics Trainee",
@@ -4442,6 +4420,17 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-09-21T14:20:59.519260+00:00"
+  },
+  {
+    "id": 12097499,
+    "company_display": "Zimmer-Biomet",
+    "title": "2027 Summer Intern, Data Management",
+    "location": "Warsaw, Indiana, USA",
+    "url": "https://career8preview.sapsf.com/careers?company=zimmerin01T1&loginFlowRequired=true&career_os=job_listing&career_ns=job_application&career_job_req_id=12746&_s.crb=nGoH4dOb0BeEdNN3rzGAq1gCJF8f20uVGOB1f6JjzUo%3D",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-21T00:00:00+00:00",
+    "date_discovered": "2026-09-21T14:52:55.294709+00:00"
   },
   {
     "id": 12113031,
@@ -4642,17 +4631,6 @@
     "date_discovered": "2026-09-21T19:13:11.690436+00:00"
   },
   {
-    "id": 12210583,
-    "company_display": "Booz Allen Hamilton",
-    "title": "University - 2027 Summer Games Data Scientist Intern - McLean, VA",
-    "location": "McLean, VA",
-    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249837",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T19:13:55.078918+00:00",
-    "date_discovered": "2026-09-21T19:14:41.102322+00:00"
-  },
-  {
     "id": 12211499,
     "company_display": "Howmet",
     "title": "Manufacturing Data Analyst - Training Program 2027",
@@ -4706,6 +4684,17 @@
     "country": "us",
     "updated_at": "2026-09-21T19:44:26+00:00",
     "date_discovered": "2026-09-21T20:08:04.399480+00:00"
+  },
+  {
+    "id": 12237337,
+    "company_display": "Booz Allen Hamilton",
+    "title": "University - 2027 Summer Games Data Scientist Intern - McLean, VA",
+    "location": "McLean, VA",
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249842",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-21T20:13:54.849773+00:00",
+    "date_discovered": "2026-09-21T20:14:52.616876+00:00"
   },
   {
     "id": 12240918,
@@ -6180,5 +6169,60 @@
     "country": "us",
     "updated_at": "2026-09-22T22:15:21.057903+00:00",
     "date_discovered": "2026-09-22T22:16:30.445852+00:00"
+  },
+  {
+    "id": 12798049,
+    "company_display": "Keysight",
+    "title": "Semiconductor Systems Automation Intern",
+    "location": "Santa Rosa, California",
+    "url": "https://careers-keysight.icims.com/jobs/54371/login",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-22T22:15:00+00:00",
+    "date_discovered": "2026-09-22T22:27:06.108926+00:00"
+  },
+  {
+    "id": 12800314,
+    "company_display": "AQR Capital Management",
+    "title": "2027 PhD Summer Associate, Machine Learning Research",
+    "location": "Greenwich, CT",
+    "url": "https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-22T22:25:41+00:00",
+    "date_discovered": "2026-09-22T22:42:44.653224+00:00"
+  },
+  {
+    "id": 12800534,
+    "company_display": "Astranis",
+    "title": "Software Engineer - Enterprise Systems Intern (Summer 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705610006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-22T22:18:40+00:00",
+    "date_discovered": "2026-09-22T22:43:01.918230+00:00"
+  },
+  {
+    "id": 12802263,
+    "company_display": "HRT",
+    "title": "Data Scientist Intern \u2013 2027",
+    "location": "New York",
+    "url": "https://www.hudsonrivertrading.com/hrt-job/data-scientist-intern-2027/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-09-22T22:45:06.214832+00:00"
+  },
+  {
+    "id": 12802276,
+    "company_display": "HRT",
+    "title": "Data Scientist Intern \u2013 2027",
+    "location": "London",
+    "url": "https://www.hudsonrivertrading.com/hrt-job/data-scientist-intern-2027-2/",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-09-22T22:45:07.172495+00:00"
   }
 ]
