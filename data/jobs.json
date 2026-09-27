@@ -1881,17 +1881,6 @@
     "date_discovered": "2026-09-14T12:49:38.895106+00:00"
   },
   {
-    "id": 9278724,
-    "company_display": "Google",
-    "title": "Business Data Scientist Intern, PhD, Summer 2027",
-    "location": "Mountain View, CA, USA; Ann Arbor, MI, USA",
-    "url": "https://careers.google.com/jobs/results/134577198026629830-business-data-scientist-intern/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-14T13:43:04.412075+00:00"
-  },
-  {
     "id": 9285044,
     "company_display": "Raytheon",
     "title": "Stage - Gestion des Programmes - Hiver 2027 Internship - Operations Program Management - Winter 2027",
@@ -1958,17 +1947,6 @@
     "date_discovered": "2026-09-14T14:47:59.562540+00:00"
   },
   {
-    "id": 9310241,
-    "company_display": "Intel",
-    "title": "System Technology Research Engineer - (PhD Intern)",
-    "location": "Hillsboro, OR",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Technology-Research-Engineer----PhD-Intern-_JR0287000",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-14T15:06:11.773017+00:00",
-    "date_discovered": "2026-09-14T15:07:35.607755+00:00"
-  },
-  {
     "id": 9317159,
     "company_display": "Nucor",
     "title": "Supply Chain Analytics Intern (Logistics, Scheduling & Inventory Management) Summer 2027",
@@ -1989,17 +1967,6 @@
     "country": "us",
     "updated_at": "2026-09-14T15:27:24.797000+00:00",
     "date_discovered": "2026-09-14T15:37:15.185277+00:00"
-  },
-  {
-    "id": 9327174,
-    "company_display": "Intuit",
-    "title": "Summer 2027: PhD AI Research Intern",
-    "location": "Mountain View, California",
-    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-phd-ai-research-intern/27595/100620927776",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-14T15:44:43.949910+00:00"
   },
   {
     "id": 9327191,
@@ -2277,17 +2244,6 @@
     "date_discovered": "2026-09-14T18:50:04.859655+00:00"
   },
   {
-    "id": 9408138,
-    "company_display": "Waymo",
-    "title": "2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics",
-    "location": "Mountain View, CA, USA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8197899",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-14T19:03:20+00:00",
-    "date_discovered": "2026-09-14T19:05:56.421987+00:00"
-  },
-  {
     "id": 9408532,
     "company_display": "Raytheon",
     "title": "Data Recording Intern (Onsite)",
@@ -2330,17 +2286,6 @@
     "country": "international",
     "updated_at": "2026-09-14T00:00:00+00:00",
     "date_discovered": "2026-09-14T19:51:03.255185+00:00"
-  },
-  {
-    "id": 9439179,
-    "company_display": "TikTok",
-    "title": "Machine Learning Engineer Graduate (Global E-Commerce, Search) - 2027 Start (PhD)",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7667884871914965301",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-14T20:14:02.774506+00:00"
   },
   {
     "id": 9442116,
@@ -2563,6 +2508,17 @@
     "date_discovered": "2026-09-15T06:13:47.309127+00:00"
   },
   {
+    "id": 9646670,
+    "company_display": "Franklin-Templeton",
+    "title": "Intern (BSP - Alternative Credit/ AI Automation)",
+    "location": "Singapore",
+    "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/SGP-SG234-Singapore/Intern--BSP---Alternative-Credit--AI-Automation-_869532/apply",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-15T00:00:00+00:00",
+    "date_discovered": "2026-09-15T06:17:53.790789+00:00"
+  },
+  {
     "id": 9646671,
     "company_display": "Franklin-Templeton",
     "title": "Intern (Multi-Asset/ Investment Strategy)",
@@ -2761,17 +2717,6 @@
     "date_discovered": "2026-09-15T17:23:30.214019+00:00"
   },
   {
-    "id": 9838751,
-    "company_display": "NVIDIA",
-    "title": "Research Intern, Fundamental Generative AI - 2027",
-    "location": "USA, CA, Santa Clara",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-15T18:06:00.772585+00:00",
-    "date_discovered": "2026-09-15T18:06:51.124976+00:00"
-  },
-  {
     "id": 9872823,
     "company_display": "Colgate-Palmolive",
     "title": "CS&L Data Analyst Co Op (June 2027 May 2028)",
@@ -2816,17 +2761,6 @@
     "date_discovered": "2026-09-15T20:12:58.512992+00:00"
   },
   {
-    "id": 9903124,
-    "company_display": "NVIDIA",
-    "title": "PhD Research Intern, Generative AI for Physical AI - 2027",
-    "location": "USA, CA, Santa Clara",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-15T20:35:50.545066+00:00",
-    "date_discovered": "2026-09-15T20:36:59.143080+00:00"
-  },
-  {
     "id": 9917166,
     "company_display": "Gilead",
     "title": "Intern - Development - Patient Safety Systems",
@@ -2847,6 +2781,17 @@
     "country": "international",
     "updated_at": "2026-09-15T00:00:00+00:00",
     "date_discovered": "2026-09-15T21:20:43.762709+00:00"
+  },
+  {
+    "id": 9927118,
+    "company_display": "BCG",
+    "title": "[Banco de Talentos] Delivery AI Engineering Intern, Brazil - X Delivery",
+    "location": "Brazil",
+    "url": "https://studenttalent.bcg.com/careerhub/explore/jobs/790318492292?post_onboarding_pid=790318492292&amp;show_apply=1&amp;profile_type=candidate&amp;customredirect=1&utm_source=Phenom",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-15T00:00:00+00:00",
+    "date_discovered": "2026-09-15T21:20:43.771675+00:00"
   },
   {
     "id": 9938972,
@@ -2913,28 +2858,6 @@
     "country": "international",
     "updated_at": "2026-09-16T11:00:43.242487+00:00",
     "date_discovered": "2026-09-16T11:05:57.892943+00:00"
-  },
-  {
-    "id": 10139008,
-    "company_display": "Apple",
-    "title": "Internship - Machine Learning Research",
-    "location": "France",
-    "url": "https://jobs.apple.com/en-us/details/200683768/internship-machine-learning-research?team=MLAI",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-16T10:39:52.497000+00:00",
-    "date_discovered": "2026-09-16T11:07:39.254955+00:00"
-  },
-  {
-    "id": 10141887,
-    "company_display": "ByteDance",
-    "title": "Research Scientist Intern (Seed Responsible AI) - 2026 Start (PhD)",
-    "location": "San Jose, California",
-    "url": "https://joinbytedance.com/search/7685504461452577077",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-16T11:11:18.925698+00:00"
   },
   {
     "id": 10142301,
@@ -3047,17 +2970,6 @@
     "date_discovered": "2026-09-16T13:46:12.357826+00:00"
   },
   {
-    "id": 10212829,
-    "company_display": "AMD",
-    "title": "2027 PhD Networking Research Intern/Co-Op",
-    "location": "Santa Clara, California",
-    "url": "https://campus-amd.icims.com/jobs/92518/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-16T14:05:00+00:00",
-    "date_discovered": "2026-09-16T14:07:42.112214+00:00"
-  },
-  {
     "id": 10216905,
     "company_display": "GE Vernova",
     "title": "Digital Technology Development Program Intern",
@@ -3091,17 +3003,6 @@
     "date_discovered": "2026-09-16T14:42:59.468207+00:00"
   },
   {
-    "id": 10232453,
-    "company_display": "ByteDance",
-    "title": "AI Agent Machine Learning Engineer Intern (Global E-Commerce, Supply Chain and Logistics) - 2027 Start (PhD)",
-    "location": "Singapore",
-    "url": "https://joinbytedance.com/search/7686117700369451269",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-16T14:47:35.870488+00:00"
-  },
-  {
     "id": 10240906,
     "company_display": "McKesson",
     "title": "Business Analyst Intern, Product Performance \u2013 Summer 2027",
@@ -3122,17 +3023,6 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-09-16T15:17:04.453766+00:00"
-  },
-  {
-    "id": 10243899,
-    "company_display": "ByteDance",
-    "title": "Multimodal LLM Algorithm Engineer Intern (Global E-Commerce, Knowledge Graph) - 2027 Start (PhD)",
-    "location": "Singapore",
-    "url": "https://joinbytedance.com/search/7686118292033079557",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-16T15:17:08.433652+00:00"
   },
   {
     "id": 10252542,
@@ -3168,17 +3058,6 @@
     "date_discovered": "2026-09-16T16:19:57.856360+00:00"
   },
   {
-    "id": 10275644,
-    "company_display": "Waymo",
-    "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
-    "location": "Mountain View, California, USA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8202025",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-16T16:23:13+00:00",
-    "date_discovered": "2026-09-16T16:35:51.061316+00:00"
-  },
-  {
     "id": 10329206,
     "company_display": "Texas Instruments",
     "title": "Web Marketing Intern - Digital Experience Operations",
@@ -3188,17 +3067,6 @@
     "country": "us",
     "updated_at": "2026-09-16T00:00:00+00:00",
     "date_discovered": "2026-09-16T18:40:40.918440+00:00"
-  },
-  {
-    "id": 10368968,
-    "company_display": "TikTok",
-    "title": "Machine Learning Engineer Graduate (Monetization Technology - Ads Core Global) - 2027 Start (PhD)",
-    "location": "San Jose, California",
-    "url": "https://lifeattiktok.com/search/7668675484492597557",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-16T20:12:32.303544+00:00"
   },
   {
     "id": 10369035,
@@ -3663,28 +3531,6 @@
     "date_discovered": "2026-09-17T18:35:49.988689+00:00"
   },
   {
-    "id": 10802403,
-    "company_display": "Apple",
-    "title": "PhD Intern, Machine Learning: MSI, Product Operations Team",
-    "location": "India",
-    "url": "https://jobs.apple.com/en-us/details/200676908/phd-intern-machine-learning-msi-product-operations-team?team=OPMFG",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-17T18:06:42.940000+00:00",
-    "date_discovered": "2026-09-17T18:42:24.848264+00:00"
-  },
-  {
-    "id": 10811410,
-    "company_display": "NVIDIA",
-    "title": "PhD Research Intern, Hardware and Systems Architecture - 2027",
-    "location": "USA, CA, Santa Clara",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Hardware-and-Systems-Architecture---2027_JR2025893",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-17T19:05:55.417991+00:00",
-    "date_discovered": "2026-09-17T19:06:49.849400+00:00"
-  },
-  {
     "id": 10823307,
     "company_display": "Aprio",
     "title": "Internship, Technology Advisory",
@@ -3727,28 +3573,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-17T20:13:28.549191+00:00"
-  },
-  {
-    "id": 10854945,
-    "company_display": "TikTok",
-    "title": "LLM Agents Platform R&D Graduate (AI Innovation Center) - 2027 Start (PhD)",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7677848679684655413",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-17T20:43:50.047580+00:00"
-  },
-  {
-    "id": 10854946,
-    "company_display": "TikTok",
-    "title": "Multimodal LLM Algorithm Engineer Graduate (Global E-Commerce, Knowledge Graph) - 2027 Start (PhD)",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7667946787733244165",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-17T20:43:50.086091+00:00"
   },
   {
     "id": 10855583,
@@ -3839,17 +3663,6 @@
     "date_discovered": "2026-09-17T22:20:12.983818+00:00"
   },
   {
-    "id": 10961768,
-    "company_display": "TikTok",
-    "title": "Machine Learning Engineer Intern (E-Commerce Recommendation Mall) - 2027 Start (PhD)",
-    "location": "San Jose, California",
-    "url": "https://lifeattiktok.com/search/7686283601340369205",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-18T00:43:39.032876+00:00"
-  },
-  {
     "id": 10983693,
     "company_display": "Micron",
     "title": "Intern - F10 Process Integration Analytics",
@@ -3914,17 +3727,6 @@
     "country": "us",
     "updated_at": "2026-09-18T00:00:00+00:00",
     "date_discovered": "2026-09-18T14:18:32.794884+00:00"
-  },
-  {
-    "id": 11181923,
-    "company_display": "AMD",
-    "title": "2027 PhD HPC & Sovereign AI Center of Excellence Intern/Co-op",
-    "location": "Santa Clara, California",
-    "url": "https://campus-amd.icims.com/jobs/92636/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-18T14:25:00+00:00",
-    "date_discovered": "2026-09-18T14:38:24.134129+00:00"
   },
   {
     "id": 11198852,
@@ -4048,17 +3850,6 @@
     "date_discovered": "2026-09-18T17:44:14.799864+00:00"
   },
   {
-    "id": 11273604,
-    "company_display": "Waymo",
-    "title": "2027 Summer Intern, PhD, Data Science",
-    "location": "San Francisco, California, USA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-18T17:54:04+00:00",
-    "date_discovered": "2026-09-18T18:05:52.622405+00:00"
-  },
-  {
     "id": 11276303,
     "company_display": "AIG",
     "title": "2027 Early Careers: Analyst, Gen AI Data Engineering \u2013 United States, Atlanta, GA",
@@ -4079,17 +3870,6 @@
     "country": "remote",
     "updated_at": "2026-09-18T18:08:49.967238+00:00",
     "date_discovered": "2026-09-18T18:09:46.082551+00:00"
-  },
-  {
-    "id": 11289509,
-    "company_display": "Johnson & Johnson",
-    "title": "Data Science Neuroscience PhD Co-op",
-    "location": "Cambridge, Massachusetts, USA",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Cambridge-Massachusetts-United-States-of-America/Data-Science-Neuroscience-PhD-Co-op_R-098401",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-18T18:37:37.892451+00:00",
-    "date_discovered": "2026-09-18T18:38:38.175038+00:00"
   },
   {
     "id": 11295260,
@@ -4202,28 +3982,6 @@
     "date_discovered": "2026-09-20T07:40:56.090261+00:00"
   },
   {
-    "id": 11775203,
-    "company_display": "Apple",
-    "title": "PhD Intern, Apple Ads (Machine Learning)",
-    "location": "India",
-    "url": "https://jobs.apple.com/en-us/details/200684719/phd-intern-apple-ads-machine-learning?team=SFTWR",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-20T07:50:25.936000+00:00",
-    "date_discovered": "2026-09-20T09:11:57.238926+00:00"
-  },
-  {
-    "id": 11881516,
-    "company_display": "TikTok",
-    "title": "Research Scientist Graduate (TikTok Recommendation-Large Recommender Models) - 2026 Start (PhD)",
-    "location": "San Jose, California",
-    "url": "https://lifeattiktok.com/search/7516696922863864072",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-20T21:13:03.936334+00:00"
-  },
-  {
     "id": 11913832,
     "company_display": "ABB",
     "title": "Internship:Implementation of the Salesforce-ServIS-SAP-FSL Pulsar data control system for Power Protection/UPS.",
@@ -4255,17 +4013,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-21T03:11:24.698363+00:00"
-  },
-  {
-    "id": 11956835,
-    "company_display": "Johnson & Johnson",
-    "title": "Advanced Process Analytics Co-op",
-    "location": "Titusville, New Jersey, USA",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Titusville-New-Jersey-United-States-of-America/Advanced-Process-Analytics-Co-op_R-098443",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T05:02:01.286291+00:00",
-    "date_discovered": "2026-09-21T05:03:21.426833+00:00"
   },
   {
     "id": 11972270,
@@ -4310,17 +4057,6 @@
     "country": "us",
     "updated_at": "2026-09-21T12:35:14.798495+00:00",
     "date_discovered": "2026-09-21T12:36:46.803763+00:00"
-  },
-  {
-    "id": 12044249,
-    "company_display": "Danaher",
-    "title": "Junior Business Analyst \u2013 Finance & Commercial Operations",
-    "location": "Centurion, Gauteng, South Africa",
-    "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Centurion-Gauteng-South-Africa/Junior--Intern--Business-Analyst---Finance---Commercial-Operations_R1315703/apply",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-09-21T00:00:00+00:00",
-    "date_discovered": "2026-09-21T12:50:54.933897+00:00"
   },
   {
     "id": 12045198,
@@ -4376,17 +4112,6 @@
     "country": "remote",
     "updated_at": "2026-09-21T00:00:00+00:00",
     "date_discovered": "2026-09-21T14:52:55.296626+00:00"
-  },
-  {
-    "id": 12113031,
-    "company_display": "AMD",
-    "title": "2027 PhD HPC & Sovereign AI Center of Excellence Intern/Co-op",
-    "location": "Austin, Texas",
-    "url": "https://campus-amd.icims.com/jobs/92691/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T15:25:00+00:00",
-    "date_discovered": "2026-09-21T15:37:51.568048+00:00"
   },
   {
     "id": 12127173,
@@ -4477,39 +4202,6 @@
     "date_discovered": "2026-09-21T17:50:13.863672+00:00"
   },
   {
-    "id": 12177161,
-    "company_display": "Figma",
-    "title": "PhD Intern, Data Science (2027)",
-    "location": "San Francisco, CA \u2022 New York, NY",
-    "url": "https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T17:47:10+00:00",
-    "date_discovered": "2026-09-21T18:05:43.390562+00:00"
-  },
-  {
-    "id": 12178521,
-    "company_display": "AMD",
-    "title": "Summer 2027 PhD Gen AI and Reinforcement Learning Research Intern",
-    "location": "Santa Clara, California",
-    "url": "https://campus-amd.icims.com/jobs/90910/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T17:46:00+00:00",
-    "date_discovered": "2026-09-21T18:07:40.938586+00:00"
-  },
-  {
-    "id": 12178598,
-    "company_display": "AMD",
-    "title": "Summer 2027 PhD AI Research Infrastructure, RL Post-Training Intern",
-    "location": "Santa Clara, California",
-    "url": "https://campus-amd.icims.com/jobs/90950/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T17:58:00+00:00",
-    "date_discovered": "2026-09-21T18:07:46.913465+00:00"
-  },
-  {
     "id": 12192743,
     "company_display": "AT&T",
     "title": "AT&T Technology Development Program Internship",
@@ -4530,28 +4222,6 @@
     "country": "international",
     "updated_at": "2026-09-21T18:42:42.427874+00:00",
     "date_discovered": "2026-09-21T18:45:17.822347+00:00"
-  },
-  {
-    "id": 12205789,
-    "company_display": "AMD",
-    "title": "Summer 2027 PhD Technical Program Manager, AI Research Intern",
-    "location": "Santa Clara, California",
-    "url": "https://campus-amd.icims.com/jobs/91019/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T18:38:00+00:00",
-    "date_discovered": "2026-09-21T19:07:52.545218+00:00"
-  },
-  {
-    "id": 12205884,
-    "company_display": "AMD",
-    "title": "Summer 2027 Master's AI Research, Reinforcement Learning and LLM Post-Training Intern",
-    "location": "Santa Clara, California",
-    "url": "https://campus-amd.icims.com/jobs/91013/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T18:42:00+00:00",
-    "date_discovered": "2026-09-21T19:07:58.483229+00:00"
   },
   {
     "id": 12209326,
@@ -4664,6 +4334,17 @@
     "date_discovered": "2026-09-21T20:43:12.438472+00:00"
   },
   {
+    "id": 12255149,
+    "company_display": "TD SYNNEX",
+    "title": "Summer 2027 Internship Program | Technical, Applied Innovation Track: \u2022 Information Technology \u2022 Supply Chain \u2022 Systems and Cloud \u2022 Artificial Intelligence",
+    "location": "Greenville, South Carolina, USA",
+    "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Greenville-SC/Summer-2027-Internship-Program---Technical--Applied-Innovation-Track----Information-Technology---Supply-Chain---Systems-and-Cloud---Artificial-Intelligence_R56571/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-21T00:00:00+00:00",
+    "date_discovered": "2026-09-21T20:50:46.412196+00:00"
+  },
+  {
     "id": 12271674,
     "company_display": "Mastercard",
     "title": "AI & Data Co-Op (Northeastern University), Spring 2027 \u2013 Purchase, NY, US",
@@ -4686,17 +4367,6 @@
     "date_discovered": "2026-09-21T21:45:29.044263+00:00"
   },
   {
-    "id": 12281347,
-    "company_display": "Procter & Gamble",
-    "title": "R&D PhD Summer Intern: AI Agents for Automated Machine Learning Research",
-    "location": "MASON, Ohio, USA",
-    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern--AI-Agents-for-Automated-Machine-Learning-Research_R000158985/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T00:00:00+00:00",
-    "date_discovered": "2026-09-21T21:49:41.430770+00:00"
-  },
-  {
     "id": 12296104,
     "company_display": "Waymo",
     "title": "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
@@ -4706,17 +4376,6 @@
     "country": "us",
     "updated_at": "2026-09-21T21:51:45+00:00",
     "date_discovered": "2026-09-21T22:35:55.276892+00:00"
-  },
-  {
-    "id": 12296743,
-    "company_display": "NVIDIA",
-    "title": "PhD Research Intern, Networking - 2027",
-    "location": "USA, CA, Santa Clara",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T22:36:08.492249+00:00",
-    "date_discovered": "2026-09-21T22:37:13.651994+00:00"
   },
   {
     "id": 12307040,
@@ -4739,17 +4398,6 @@
     "country": "us",
     "updated_at": "2026-09-21T22:52:02+00:00",
     "date_discovered": "2026-09-21T23:06:21.560476+00:00"
-  },
-  {
-    "id": 12350400,
-    "company_display": "NVIDIA",
-    "title": "PhD Research Intern, Learning Embodied Skills from Human Data - 2027",
-    "location": "USA, CA, Santa Clara",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-22T00:35:50.011946+00:00",
-    "date_discovered": "2026-09-22T00:36:53.513156+00:00"
   },
   {
     "id": 12353590,
@@ -4906,6 +4554,17 @@
     "date_discovered": "2026-09-22T13:46:28.769924+00:00"
   },
   {
+    "id": 12557863,
+    "company_display": "GSK",
+    "title": "Programming, Statistics & Data Science (Multiple Roles) Industrial Placement, 2027",
+    "location": "London, United Kingdom",
+    "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK--London--New-Oxford-Street/Programming--Statistics---Data-Science--Multiple-Roles--Industrial-Placement--2027_446656/apply",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-22T00:00:00+00:00",
+    "date_discovered": "2026-09-22T13:47:48.082464+00:00"
+  },
+  {
     "id": 12558232,
     "company_display": "Dominion Energy",
     "title": "Intern - Security Solutions",
@@ -4983,17 +4642,6 @@
     "date_discovered": "2026-09-22T15:08:04.735226+00:00"
   },
   {
-    "id": 12592116,
-    "company_display": "Apple",
-    "title": "Internship - Machine Learning (Foundation Models)",
-    "location": "Switzerland",
-    "url": "https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models?team=MLAI",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-22T14:48:59.215000+00:00",
-    "date_discovered": "2026-09-22T15:10:55.860756+00:00"
-  },
-  {
     "id": 12604117,
     "company_display": "Rippling",
     "title": "Data Science Intern - Summer 2027",
@@ -5014,17 +4662,6 @@
     "country": "us",
     "updated_at": "2026-09-22T16:15:08.272375+00:00",
     "date_discovered": "2026-09-22T16:16:28.860855+00:00"
-  },
-  {
-    "id": 12625707,
-    "company_display": "GSK",
-    "title": "Data Generation and Scientific Communication (Multiple Roles) Industrial Placement, UK 2027",
-    "location": "London, United Kingdom",
-    "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/UK--London--New-Oxford-Street/Data-Generation-and-Scientific-Communication--Multiple-Roles--Industrial-Placement--UK-2027_447045/apply",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-22T00:00:00+00:00",
-    "date_discovered": "2026-09-22T16:17:44.488954+00:00"
   },
   {
     "id": 12639816,
@@ -5368,17 +5005,6 @@
     "date_discovered": "2026-09-22T16:53:28.301785+00:00"
   },
   {
-    "id": 12640787,
-    "company_display": "TikTok",
-    "title": "AI Machine Learning Engineer Intern (TikTok Search) - 2026 Start (PhD)",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7531716084228278536",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:53:37.397236+00:00"
-  },
-  {
     "id": 12641117,
     "company_display": "TikTok",
     "title": "Data Scientist Intern (VOD Data) - 2027 Summer",
@@ -5412,28 +5038,6 @@
     "date_discovered": "2026-09-22T16:53:49.236124+00:00"
   },
   {
-    "id": 12641192,
-    "company_display": "TikTok",
-    "title": "Machine Learning Engineer Intern, Trust and Safety Engineering - 2027 Start (PhD)",
-    "location": "Sydney, New South Wales",
-    "url": "https://lifeattiktok.com/search/7613562053996005637",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:53:49.652723+00:00"
-  },
-  {
-    "id": 12641205,
-    "company_display": "TikTok",
-    "title": "Machine Learning Engineer Intern (Trust & Safety) - 2026 Start (PhD)",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7533150108277623048",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:53:50.335031+00:00"
-  },
-  {
     "id": 12641212,
     "company_display": "TikTok",
     "title": "AI Infrastructure Engineer Intern (TikTok Recommendation Architecture) - 2027 Start",
@@ -5456,28 +5060,6 @@
     "date_discovered": "2026-09-22T16:53:51.061890+00:00"
   },
   {
-    "id": 12641234,
-    "company_display": "TikTok",
-    "title": "Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)",
-    "location": "Seattle, Washington",
-    "url": "https://lifeattiktok.com/search/7532660880120400135",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:53:51.483502+00:00"
-  },
-  {
-    "id": 12641238,
-    "company_display": "TikTok",
-    "title": "Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)",
-    "location": "Seattle, Washington",
-    "url": "https://lifeattiktok.com/search/7532254890627696903",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:53:51.593006+00:00"
-  },
-  {
     "id": 12641240,
     "company_display": "TikTok",
     "title": "Business Analytics Project Intern (TikTok Shop) - 2026 Start (BS/MS)",
@@ -5498,17 +5080,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-22T16:53:52.056981+00:00"
-  },
-  {
-    "id": 12641302,
-    "company_display": "TikTok",
-    "title": "Machine Learning Engineer Intern (TikTok BRIC Account Security) - 2027 Start (PhD)",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7662623341929630005",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:53:53.487861+00:00"
   },
   {
     "id": 12641312,
@@ -5564,204 +5135,6 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-09-22T16:53:59.718102+00:00"
-  },
-  {
-    "id": 12641564,
-    "company_display": "TikTok",
-    "title": "Multimodal Algo Researcher Graduate (AI Innovation Center) - 2026 (PhD)",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7533508124829878546",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:54:00.851894+00:00"
-  },
-  {
-    "id": 12641632,
-    "company_display": "TikTok",
-    "title": "(General Hire) Machine Learning Scientist Graduate (TikTok Recommendation) - 2026 Start (PhD)",
-    "location": "San Jose, California",
-    "url": "https://lifeattiktok.com/search/7516697794956478738",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:54:03.214664+00:00"
-  },
-  {
-    "id": 12641666,
-    "company_display": "TikTok",
-    "title": "Research Scientist - Data and State Acceleration - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
-    "location": "San Jose, California",
-    "url": "https://lifeattiktok.com/search/7629234781608724741",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:54:04.594782+00:00"
-  },
-  {
-    "id": 12641673,
-    "company_display": "TikTok",
-    "title": "Data Engineer Graduate (TikTok Recommendation Ecosystem Architecture) - 2027 Start (PhD)",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7667935568628435205",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:54:04.717157+00:00"
-  },
-  {
-    "id": 12641700,
-    "company_display": "TikTok",
-    "title": "Machine Learning Engineer Graduate (Global E-Commerce) - 2027 Start (PhD)",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7665942671233206533",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:54:05.518953+00:00"
-  },
-  {
-    "id": 12641715,
-    "company_display": "TikTok",
-    "title": "AI Agent Algorithm Engineer Graduate (Global E-Commerce, Affiliate) - 2027 Start (PhD)",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7667732652198316293",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:54:05.733952+00:00"
-  },
-  {
-    "id": 12641809,
-    "company_display": "TikTok",
-    "title": "Research Scientist Graduate (Compute Platform - Database Acceleration)- 2026 Start (PhD)",
-    "location": "San Jose, California",
-    "url": "https://lifeattiktok.com/search/7631070662808160565",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:54:10.464846+00:00"
-  },
-  {
-    "id": 12641823,
-    "company_display": "TikTok",
-    "title": "AI Agent Machine Learning Engineer Graduate (Global E-Commerce, Supply Chain and Logistics) - 2027 Start (PhD)",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7667944966433737013",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:54:11.067700+00:00"
-  },
-  {
-    "id": 12641835,
-    "company_display": "TikTok",
-    "title": "Research Scientist \u2013 E-commerce Recommendation(LLM Applications) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
-    "location": "San Jose, California",
-    "url": "https://lifeattiktok.com/search/7629184028664563973",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:54:11.093070+00:00"
-  },
-  {
-    "id": 12642403,
-    "company_display": "TikTok",
-    "title": "Machine Learning Research Scientist Graduate (Business Integrity) - 2026 Start (PhD)",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7532400359361399047",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:54:34.150189+00:00"
-  },
-  {
-    "id": 12642406,
-    "company_display": "TikTok",
-    "title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search - 2026 Start (PhD)",
-    "location": "San Jose, California",
-    "url": "https://lifeattiktok.com/search/7550798923146250504",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:54:34.336803+00:00"
-  },
-  {
-    "id": 12642420,
-    "company_display": "TikTok",
-    "title": "AI Machine Learning Engineer Graduate (TikTok Search) - 2026 Start (PhD)",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7531709006790052114",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:54:35.407712+00:00"
-  },
-  {
-    "id": 12642438,
-    "company_display": "TikTok",
-    "title": "Machine Learning Engineer Graduate (TikTok Shop Global E-Commerce, Search) - 2026 Start (PhD)",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7530926044292401416",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:54:36.551839+00:00"
-  },
-  {
-    "id": 12642447,
-    "company_display": "TikTok",
-    "title": "Machine Learning Engineer Graduate (TikTok Shop Global E-Commerce, Platform Governance) - 2026 Start (PhD)",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7530955214620346642",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:54:36.860021+00:00"
-  },
-  {
-    "id": 12642473,
-    "company_display": "TikTok",
-    "title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search - 2026 Start (PhD)",
-    "location": "Seattle, Washington",
-    "url": "https://lifeattiktok.com/search/7550790814831511815",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:54:41.042589+00:00"
-  },
-  {
-    "id": 12642516,
-    "company_display": "TikTok",
-    "title": "Machine Learning Engineer Graduate (TikTok Shop Global E-Commerce, Risk Control) - 2026 Start (PhD)",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7530956571162298642",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:54:49.578530+00:00"
-  },
-  {
-    "id": 12642519,
-    "company_display": "TikTok",
-    "title": "Machine Learning Engineer Graduate (Global E-Commerce, User Growth) - 2027 Start (PhD)",
-    "location": "Singapore",
-    "url": "https://lifeattiktok.com/search/7667890047201069317",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:54:49.812802+00:00"
-  },
-  {
-    "id": 12642566,
-    "company_display": "TikTok",
-    "title": "Research Scientist - LLM Applications on Search/Ads/Recommendation - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
-    "location": "San Jose, California",
-    "url": "https://lifeattiktok.com/search/7629235064786127109",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-22T16:54:56.291392+00:00"
   },
   {
     "id": 12643516,
@@ -5907,17 +5280,6 @@
     "date_discovered": "2026-09-22T16:59:02.543908+00:00"
   },
   {
-    "id": 12645169,
-    "company_display": "Southwest Airlines",
-    "title": "Associate Data Scientist - Direct College Hire",
-    "location": "Not specified",
-    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Data-Scientist---Direct-College-Hire_R-2026-72885/apply",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-22T00:00:00+00:00",
-    "date_discovered": "2026-09-22T17:00:00.947784+00:00"
-  },
-  {
     "id": 12656515,
     "company_display": "Symbotic",
     "title": "Intern- Data Engineer",
@@ -5951,17 +5313,6 @@
     "date_discovered": "2026-09-22T19:47:16.248130+00:00"
   },
   {
-    "id": 12728102,
-    "company_display": "Procter & Gamble",
-    "title": "R&D PhD Summer Intern - AI Research Engineer",
-    "location": "MASON, Ohio, USA",
-    "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-22T00:00:00+00:00",
-    "date_discovered": "2026-09-22T19:56:11.132660+00:00"
-  },
-  {
     "id": 12732548,
     "company_display": "Maxar",
     "title": "AI Engineer Intern",
@@ -5971,17 +5322,6 @@
     "country": "remote",
     "updated_at": "2026-09-22T20:14:37.824156+00:00",
     "date_discovered": "2026-09-22T20:15:09.738201+00:00"
-  },
-  {
-    "id": 12785322,
-    "company_display": "Waymo",
-    "title": "2027 Summer Intern, PhD, Data Science",
-    "location": "Mountain View, CA, USA; San Francisco, USA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8221956",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-22T22:02:12+00:00",
-    "date_discovered": "2026-09-22T22:11:41.445380+00:00"
   },
   {
     "id": 12787830,
@@ -6004,17 +5344,6 @@
     "country": "us",
     "updated_at": "2026-09-22T22:15:00+00:00",
     "date_discovered": "2026-09-22T22:27:06.108926+00:00"
-  },
-  {
-    "id": 12800314,
-    "company_display": "AQR Capital Management",
-    "title": "2027 PhD Summer Associate, Machine Learning Research",
-    "location": "Greenwich, CT",
-    "url": "https://careers.aqr.com/jobs?gh_jid=8224708&gh_jid=8224708",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-22T22:25:41+00:00",
-    "date_discovered": "2026-09-22T22:42:44.653224+00:00"
   },
   {
     "id": 12800534,
@@ -6136,17 +5465,6 @@
     "country": "international",
     "updated_at": "2026-09-23T04:00:40.822009+00:00",
     "date_discovered": "2026-09-23T04:01:55.031342+00:00"
-  },
-  {
-    "id": 12942200,
-    "company_display": "KLA",
-    "title": "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
-    "location": "Milpitas, CA",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-23T04:02:08.465018+00:00",
-    "date_discovered": "2026-09-23T04:04:11.624798+00:00"
   },
   {
     "id": 12954098,
@@ -6589,39 +5907,6 @@
     "date_discovered": "2026-09-23T15:40:34.801507+00:00"
   },
   {
-    "id": 13127596,
-    "company_display": "Amazon",
-    "title": "2027 Applied Science Intern (Computer Vision), Amazon International Machine Learning",
-    "location": "Melbourne, Victoria, AUS",
-    "url": "https://www.amazon.jobs/en/jobs/10459543/2027-applied-science-intern-computer-vision-amazon-international-machine-learning",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-22T15:20:46.357464+00:00",
-    "date_discovered": "2026-09-23T15:40:34.830096+00:00"
-  },
-  {
-    "id": 13127597,
-    "company_display": "Amazon",
-    "title": "2027 Applied Science Intern (Machine Learning, Recommender Systems), Amazon International Machine Learning",
-    "location": "Melbourne, Victoria, AUS",
-    "url": "https://www.amazon.jobs/en/jobs/10456239/2027-applied-science-intern-machine-learning-recommender-systems-amazon-international-machine-learning",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-06-25T15:20:46.405715+00:00",
-    "date_discovered": "2026-09-23T15:40:34.833340+00:00"
-  },
-  {
-    "id": 13127616,
-    "company_display": "Amazon",
-    "title": "Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)",
-    "location": "North Reading, Massachusetts, USA",
-    "url": "https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-06-25T15:20:57.107136+00:00",
-    "date_discovered": "2026-09-23T15:40:34.888476+00:00"
-  },
-  {
     "id": 13127625,
     "company_display": "Amazon",
     "title": "2027 Data Science Internship - United States, PhD or Masters Student",
@@ -6721,28 +6006,6 @@
     "date_discovered": "2026-09-23T20:00:46.030381+00:00"
   },
   {
-    "id": 13238243,
-    "company_display": "NVIDIA",
-    "title": "PhD Research Intern, Electronic Design Automation - 2027",
-    "location": "USA, CA, Santa Clara",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-23T20:40:09.944897+00:00",
-    "date_discovered": "2026-09-23T20:40:23.831536+00:00"
-  },
-  {
-    "id": 13238244,
-    "company_display": "NVIDIA",
-    "title": "PhD Research Intern, Quantum Simulation and AI - 2027",
-    "location": "USA, CA, Santa Clara",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-23T20:40:10.013083+00:00",
-    "date_discovered": "2026-09-23T20:40:23.873730+00:00"
-  },
-  {
     "id": 13255430,
     "company_display": "Walgreens",
     "title": "Centralized Services AI Intern",
@@ -6752,50 +6015,6 @@
     "country": "us",
     "updated_at": "2026-09-23T00:00:00+00:00",
     "date_discovered": "2026-09-23T21:20:00.921340+00:00"
-  },
-  {
-    "id": 13256245,
-    "company_display": "IMC Trading",
-    "title": "Hardware Machine Learning PhD Research Internship",
-    "location": "Chicago, USA",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4975945101",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-23T21:22:54+00:00",
-    "date_discovered": "2026-09-23T21:32:15.013019+00:00"
-  },
-  {
-    "id": 13257564,
-    "company_display": "AMD",
-    "title": "Summer 2027 PhD Applied AI Engineering Intern, Hardware AI",
-    "location": "Santa Clara, California",
-    "url": "https://campus-amd.icims.com/jobs/90997/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-23T21:30:00+00:00",
-    "date_discovered": "2026-09-23T21:34:56.552644+00:00"
-  },
-  {
-    "id": 13257644,
-    "company_display": "AMD",
-    "title": "Summer 2027 PhD ML Systems Research Engineering Intern",
-    "location": "Santa Clara, California",
-    "url": "https://campus-amd.icims.com/jobs/90993/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-23T21:21:00+00:00",
-    "date_discovered": "2026-09-23T21:35:01.319147+00:00"
-  },
-  {
-    "id": 13257647,
-    "company_display": "AMD",
-    "title": "Summer 2027 PhD AI Engineering Intern",
-    "location": "Santa Clara, California",
-    "url": "https://campus-amd.icims.com/jobs/91005/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-23T21:28:00+00:00",
-    "date_discovered": "2026-09-23T21:35:01.491428+00:00"
   },
   {
     "id": 13280677,
@@ -6818,28 +6037,6 @@
     "country": "us",
     "updated_at": "2026-09-23T21:55:00+00:00",
     "date_discovered": "2026-09-23T22:44:47.403806+00:00"
-  },
-  {
-    "id": 13337301,
-    "company_display": "ByteDance",
-    "title": "Student Researcher - (Seed Model - Seed Responsible AI) - 2027 Start (PhD)",
-    "location": "San Jose, California",
-    "url": "https://joinbytedance.com/search/7688841262493485365",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-24T00:51:57.621627+00:00"
-  },
-  {
-    "id": 13337446,
-    "company_display": "ByteDance",
-    "title": "Research Scientist Graduate (Seed Model - LLM) - 2026 Start (PhD)",
-    "location": "San Jose, California",
-    "url": "https://joinbytedance.com/search/7671033602288912645",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-24T00:52:09.379856+00:00"
   },
   {
     "id": 13392210,
@@ -7876,17 +7073,6 @@
     "date_discovered": "2026-09-25T23:17:10.500475+00:00"
   },
   {
-    "id": 14347428,
-    "company_display": "DoorDash",
-    "title": "Machine Learning Intern (PhD) - Summer 2027",
-    "location": "San Francisco, CA; Sunnyvale, CA ; New York City, NY; Seattle, WA",
-    "url": "https://careersatdoordash.com/jobs/machine-learning-intern-phd---summer-2027/8233953",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-26T00:06:28.202556+00:00"
-  },
-  {
     "id": 14347431,
     "company_display": "DoorDash",
     "title": "Machine Learning Intern (Masters) - Summer 2027",
@@ -7896,5 +7082,82 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-26T00:06:28.390996+00:00"
+  },
+  {
+    "id": 14377257,
+    "company_display": "First-Solar",
+    "title": "Data Engineering Intern (Spring 2027)",
+    "location": "Perrysburg, OH, USA",
+    "url": "https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026045",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-26T00:00:00+00:00",
+    "date_discovered": "2026-09-26T01:11:43.753620+00:00"
+  },
+  {
+    "id": 14377259,
+    "company_display": "First-Solar",
+    "title": "Data Analytics Intern (Spring 2027)",
+    "location": "Perrysburg, OH, USA",
+    "url": "https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026042",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-26T00:00:00+00:00",
+    "date_discovered": "2026-09-26T01:11:43.842161+00:00"
+  },
+  {
+    "id": 14377261,
+    "company_display": "First-Solar",
+    "title": "Data Science Intern (Spring 2027)",
+    "location": "Perrysburg, OH, USA",
+    "url": "https://fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1026043",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-26T00:00:00+00:00",
+    "date_discovered": "2026-09-26T01:11:43.891923+00:00"
+  },
+  {
+    "id": 14441898,
+    "company_display": "Ford",
+    "title": "Product Development Engineer - Intern",
+    "location": "Naucalpan de Juarez, MEX, Mexico",
+    "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/70676",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-26T00:00:00+00:00",
+    "date_discovered": "2026-09-26T04:39:40.422682+00:00"
+  },
+  {
+    "id": 14446332,
+    "company_display": "Gilead",
+    "title": "Intern - Research - Data Sciences - AI",
+    "location": "United States - California - Foster City",
+    "url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Data-Sciences---AI_R0055524",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-26T04:41:31.885981+00:00",
+    "date_discovered": "2026-09-26T04:43:29.320814+00:00"
+  },
+  {
+    "id": 14459525,
+    "company_display": "Dover",
+    "title": "Engineer Intern",
+    "location": "Downers Grove, Illinois, USA",
+    "url": "https://dover.wd103.myworkdayjobs.com/en-US/Dover/job/Downers-Grove-Illinois-USA/Engineer-Intern_JR101370",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-21T06:11:43.993049+00:00",
+    "date_discovered": "2026-09-26T06:15:24.646188+00:00"
+  },
+  {
+    "id": 14459687,
+    "company_display": "Lego",
+    "title": "Digital Technology Student Worker - Data Science",
+    "location": "Billund",
+    "url": "https://lego.wd103.myworkdayjobs.com/en-US/LEGO_External/job/Billund/Student-Worker--Data-Science_0000037813",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-09-15T06:12:16.223768+00:00",
+    "date_discovered": "2026-09-26T06:15:46.171583+00:00"
   }
 ]
