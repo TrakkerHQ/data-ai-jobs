@@ -5346,17 +5346,6 @@
     "date_discovered": "2026-09-23T05:11:36.940059+00:00"
   },
   {
-    "id": 12980540,
-    "company_display": "Franklin-Templeton",
-    "title": "Intern (TGI - Portfolio Management/ AI Automation)",
-    "location": "Singapore",
-    "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/SGP-SG234-Singapore/Intern--TGI---Portfolio-Management--AI-Automation-_869422/apply",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-23T00:00:00+00:00",
-    "date_discovered": "2026-09-23T06:18:01.887566+00:00"
-  },
-  {
     "id": 12980541,
     "company_display": "Franklin-Templeton",
     "title": "Intern (TGI - Machine Learning/ AI Engineering)",
@@ -6105,6 +6094,17 @@
     "date_discovered": "2026-09-24T13:09:08.006187+00:00"
   },
   {
+    "id": 13543442,
+    "company_display": "Cisco",
+    "title": "Software Engineer Data & AI II (Intern) \u2013 United States",
+    "location": "San Jose, California, USA",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-24T00:00:00+00:00",
+    "date_discovered": "2026-09-24T13:14:28.213962+00:00"
+  },
+  {
     "id": 13549709,
     "company_display": "Cisco",
     "title": "AI Operations Engineer I (Intern) \u2013 United States",
@@ -6202,6 +6202,17 @@
     "country": "us",
     "updated_at": "2026-09-17T14:49:22.643939+00:00",
     "date_discovered": "2026-09-24T14:50:17.055071+00:00"
+  },
+  {
+    "id": 13594757,
+    "company_display": "Cisco",
+    "title": "Machine Learning Engineer II (Intern) \u2013 United States",
+    "location": "San Jose, California, USA",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-24T00:00:00+00:00",
+    "date_discovered": "2026-09-24T15:14:26.804125+00:00"
   },
   {
     "id": 13602585,
@@ -7491,17 +7502,6 @@
     "date_discovered": "2026-09-29T11:12:24.093512+00:00"
   },
   {
-    "id": 15727885,
-    "company_display": "Zebra",
-    "title": "2027 Summer Internship (US) - Supply Chain Analytics",
-    "location": "USA - Lincolnshire, Illinois; Holtsville, New York",
-    "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/USA---Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Supply-Chain-Analytics_JR103464",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-29T11:48:21.924492+00:00",
-    "date_discovered": "2026-09-29T11:48:22.777045+00:00"
-  },
-  {
     "id": 15754639,
     "company_display": "IBM",
     "title": "[\u65b0\u5352\u63a1\u7528]IBM Japan Research Scientist Fresh Graduates",
@@ -7786,17 +7786,6 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-09-30T02:57:10.038257+00:00"
-  },
-  {
-    "id": 16251132,
-    "company_display": "Ericsson",
-    "title": "Python Developer Intern",
-    "location": "Budapest, Hungary",
-    "url": "https://ericsson.eightfold.ai/careers/job/563121777263888",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-30T02:57:10.531681+00:00"
   },
   {
     "id": 16320590,
@@ -8261,17 +8250,6 @@
     "date_discovered": "2026-10-01T00:42:29.889500+00:00"
   },
   {
-    "id": 16864286,
-    "company_display": "Southwest Airlines",
-    "title": "Summer 2027 Customer Experience & Analytics Data Science Internship",
-    "location": "Not specified",
-    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Customer-Experience---Analytics-Data-Science-Internship_R-2026-73023/apply",
-    "skill_level": "intern",
-    "country": null,
-    "updated_at": "2026-10-01T00:00:00+00:00",
-    "date_discovered": "2026-10-01T00:46:35.377875+00:00"
-  },
-  {
     "id": 16864288,
     "company_display": "Southwest Airlines",
     "title": "Safety Analytics Summer 2027 Intern",
@@ -8292,17 +8270,6 @@
     "country": null,
     "updated_at": "2026-10-01T00:00:00+00:00",
     "date_discovered": "2026-10-01T01:16:28.750920+00:00"
-  },
-  {
-    "id": 16881798,
-    "company_display": "Southwest Airlines",
-    "title": "Summer 2027 Maintenance Programs Solutions & Analytics Internship",
-    "location": "Not specified",
-    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Maintenance-Programs-Solutions---Analytics-Internship_R-2026-73021/apply",
-    "skill_level": "intern",
-    "country": null,
-    "updated_at": "2026-10-01T00:00:00+00:00",
-    "date_discovered": "2026-10-01T01:16:29.154198+00:00"
   },
   {
     "id": 16887612,
@@ -8336,6 +8303,17 @@
     "country": "international",
     "updated_at": "2026-10-01T00:00:00+00:00",
     "date_discovered": "2026-10-01T02:34:36.470781+00:00"
+  },
+  {
+    "id": 16987661,
+    "company_display": "Southwest Airlines",
+    "title": "Summer 2027 Data Engineer Internship",
+    "location": "Not specified",
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Data-Engineer-Internship_R-2026-73271/apply",
+    "skill_level": "intern",
+    "country": null,
+    "updated_at": "2026-10-01T00:00:00+00:00",
+    "date_discovered": "2026-10-01T05:11:53.600695+00:00"
   },
   {
     "id": 16996184,
@@ -8512,6 +8490,17 @@
     "country": "international",
     "updated_at": "2026-10-01T13:40:01.078609+00:00",
     "date_discovered": "2026-10-01T13:41:39.079132+00:00"
+  },
+  {
+    "id": 17180538,
+    "company_display": "Southwest Airlines",
+    "title": "Summer 2027 Revenue Management Analyst Internship",
+    "location": "Not specified",
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Revenue-Management-Analyst-Internship_R-2026-73263/apply",
+    "skill_level": "intern",
+    "country": null,
+    "updated_at": "2026-10-01T00:00:00+00:00",
+    "date_discovered": "2026-10-01T13:46:24.112602+00:00"
   },
   {
     "id": 17215072,
@@ -9249,5 +9238,38 @@
     "country": "us",
     "updated_at": "2026-10-03T18:11:31.212170+00:00",
     "date_discovered": "2026-10-03T18:11:33.644586+00:00"
+  },
+  {
+    "id": 18385805,
+    "company_display": "Raytheon",
+    "title": "Co-Op - AI DSP Applied Research",
+    "location": "US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Co-Op---AI-DSP-Applied-Research_01873016",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-04T01:34:35.020552+00:00",
+    "date_discovered": "2026-10-04T01:36:58.611221+00:00"
+  },
+  {
+    "id": 18386588,
+    "company_display": "Ericsson",
+    "title": "Data Analyst Intern",
+    "location": "Plano, Texas, USA",
+    "url": "https://ericsson.eightfold.ai/careers/job/563121777025507",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-04T10:38:01.400329+00:00"
+  },
+  {
+    "id": 18387691,
+    "company_display": "NVIDIA",
+    "title": "Data Processing Developer Technology Intern - 2027",
+    "location": "Germany, Munich; France, Courbevoie; UK, Bristol; Switzerland, Zurich; Germany, Wuerselen; Germany, Berlin",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Data-Processing-Developer-Technology-Intern---2027_JR2024708",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-04T22:34:03.442914+00:00",
+    "date_discovered": "2026-10-04T22:36:26.164861+00:00"
   }
 ]
