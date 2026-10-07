@@ -6138,6 +6138,17 @@
     "date_discovered": "2026-09-24T14:13:57.414444+00:00"
   },
   {
+    "id": 13582335,
+    "company_display": "Cisco",
+    "title": "Machine Learning Engineer I (Intern) \u2013 United States",
+    "location": "San Jose, California, USA",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-24T00:00:00+00:00",
+    "date_discovered": "2026-09-24T14:44:40.098189+00:00"
+  },
+  {
     "id": 13585589,
     "company_display": "Jabil",
     "title": "Operations Analytics & Reporting Intern",
@@ -6169,6 +6180,17 @@
     "country": "us",
     "updated_at": "2026-09-17T14:49:22.643939+00:00",
     "date_discovered": "2026-09-24T14:50:17.055071+00:00"
+  },
+  {
+    "id": 13594757,
+    "company_display": "Cisco",
+    "title": "Machine Learning Engineer II (Intern) \u2013 United States",
+    "location": "San Jose, California, USA",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-24T00:00:00+00:00",
+    "date_discovered": "2026-09-24T15:14:26.804125+00:00"
   },
   {
     "id": 13602585,
@@ -7249,17 +7271,6 @@
     "date_discovered": "2026-09-28T20:46:53.692724+00:00"
   },
   {
-    "id": 15398221,
-    "company_display": "TIAA",
-    "title": "2027 Early Talent Rotational Program: Enterprise Analytics & Retirement Strategy",
-    "location": "Charlotte, NC, USA; Dallas, TX, USA",
-    "url": "https://tiaa.wd1.myworkdayjobs.com/en-US/Search/job/Charlotte-NC-USA/XMLNAME-2027-Early-Talent-Rotational-Program--Enterprise-Analytics---Retirement-Strategy_R260900424-1",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-28T22:13:21.262231+00:00",
-    "date_discovered": "2026-09-28T22:13:47.318722+00:00"
-  },
-  {
     "id": 15413374,
     "company_display": "Raytheon",
     "title": "Stage - Hiver 2027 - Administration des contrats, analyse des ventes et marketing / Internship - Winter 2027 - Contract Administration, Sales Analysis & Marketing",
@@ -7280,17 +7291,6 @@
     "country": "us",
     "updated_at": "2026-09-28T23:11:02.077049+00:00",
     "date_discovered": "2026-09-28T23:11:51.229036+00:00"
-  },
-  {
-    "id": 15459430,
-    "company_display": "IBM",
-    "title": "Quantum Algorithms Engineer Intern 2027",
-    "location": "Multiple Cities",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=133789",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-28T23:52:36.405624+00:00"
   },
   {
     "id": 15485851,
@@ -7401,17 +7401,6 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-09-29T12:41:45.780021+00:00"
-  },
-  {
-    "id": 15775635,
-    "company_display": "Accenture",
-    "title": "Graduation Internship Netherland - AI Security",
-    "location": "Amsterdam",
-    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AvanadeCareers/job/Amsterdam/Graduation-Internship-Netherland---AI-Security_R00360724",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-29T13:15:50.549558+00:00",
-    "date_discovered": "2026-09-29T13:16:35.017036+00:00"
   },
   {
     "id": 15779990,
@@ -7788,6 +7777,17 @@
     "date_discovered": "2026-09-30T12:40:56.463179+00:00"
   },
   {
+    "id": 16444183,
+    "company_display": "State Street",
+    "title": "Junior Web Scraper",
+    "location": "Krakow, Lesser Poland, Poland",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Junior-Web-Scraper_R-786307/apply",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-30T00:00:00+00:00",
+    "date_discovered": "2026-09-30T12:43:18.253324+00:00"
+  },
+  {
     "id": 16451806,
     "company_display": "Amazon",
     "title": "Business Analyst Intern (3, 6 and 12 months) - 2027",
@@ -7964,17 +7964,6 @@
     "date_discovered": "2026-09-30T17:11:33.551959+00:00"
   },
   {
-    "id": 16613009,
-    "company_display": "Netapp",
-    "title": "Data Science Intern",
-    "location": "Wichita, KS, USA Office (WICHITA)",
-    "url": "https://netapp.eightfold.ai/careers/job/44744719",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-30T17:41:48.232592+00:00"
-  },
-  {
     "id": 16636699,
     "company_display": "Capital Group",
     "title": "CAMPUS: Capital Group Rotational Program - Data & Tech Track Associate - US - New York",
@@ -8107,6 +8096,17 @@
     "date_discovered": "2026-10-01T00:42:29.693056+00:00"
   },
   {
+    "id": 16858118,
+    "company_display": "Infineon",
+    "title": "Internship - Agentic AI for Hardware Test Automation",
+    "location": "Singapore",
+    "url": "https://jobs.infineon.com/careers/job/563808972063775",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-01T00:42:29.801243+00:00"
+  },
+  {
     "id": 16858138,
     "company_display": "Infineon",
     "title": "Internship - AI Research, Development, and Implementation in Wafer Technology",
@@ -8129,17 +8129,6 @@
     "date_discovered": "2026-10-01T00:46:35.377875+00:00"
   },
   {
-    "id": 16881790,
-    "company_display": "Southwest Airlines",
-    "title": "Summer 2027 Labor Planning & Analytics Internship",
-    "location": "Not specified",
-    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Labor-Planning---Analytics-Internship_R-2026-73273/apply",
-    "skill_level": "intern",
-    "country": null,
-    "updated_at": "2026-10-01T00:00:00+00:00",
-    "date_discovered": "2026-10-01T01:16:28.750920+00:00"
-  },
-  {
     "id": 16881798,
     "company_display": "Southwest Airlines",
     "title": "Summer 2027 Maintenance Programs Solutions & Analytics Internship",
@@ -8151,17 +8140,6 @@
     "date_discovered": "2026-10-01T01:16:29.154198+00:00"
   },
   {
-    "id": 16887612,
-    "company_display": "AstraZeneca",
-    "title": "Co-Op, Development Operations AI & Automation Enablement Intern",
-    "location": "Canada - Mississauga",
-    "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-30T01:29:43.678879+00:00",
-    "date_discovered": "2026-10-01T01:29:53.432992+00:00"
-  },
-  {
     "id": 16928421,
     "company_display": "Coherent",
     "title": "Intern, Business Intelligence",
@@ -8171,6 +8149,17 @@
     "country": "international",
     "updated_at": "2026-10-01T00:00:00+00:00",
     "date_discovered": "2026-10-01T02:34:36.470781+00:00"
+  },
+  {
+    "id": 16987661,
+    "company_display": "Southwest Airlines",
+    "title": "Summer 2027 Data Engineer Internship",
+    "location": "Not specified",
+    "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Data-Engineer-Internship_R-2026-73271/apply",
+    "skill_level": "intern",
+    "country": null,
+    "updated_at": "2026-10-01T00:00:00+00:00",
+    "date_discovered": "2026-10-01T05:11:53.600695+00:00"
   },
   {
     "id": 16996184,
@@ -8921,17 +8910,6 @@
     "date_discovered": "2026-10-02T15:40:01.993060+00:00"
   },
   {
-    "id": 17983016,
-    "company_display": "Leidos",
-    "title": "Business Systems AI Intern",
-    "location": "6314 Remote/Teleworker US",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770",
-    "skill_level": "intern",
-    "country": "remote",
-    "updated_at": "2026-10-02T16:15:31.400855+00:00",
-    "date_discovered": "2026-10-02T16:16:14.579738+00:00"
-  },
-  {
     "id": 18032726,
     "company_display": "Infineon",
     "title": "Internship \u2013 Supply Chain Planning Data Analyst",
@@ -8941,17 +8919,6 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-10-02T17:43:17.816451+00:00"
-  },
-  {
-    "id": 18055148,
-    "company_display": "BAE Systems",
-    "title": "Data Analyst Intern \u2013 Estimating & Pricing (Tactical Solutions), Summer 2027",
-    "location": "Westminster, Colorado, USA",
-    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=304096",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-02T18:03:56.467000+00:00",
-    "date_discovered": "2026-10-02T18:16:08.086574+00:00"
   },
   {
     "id": 18055149,
@@ -9097,17 +9064,6 @@
     "date_discovered": "2026-10-04T22:36:26.164861+00:00"
   },
   {
-    "id": 18388840,
-    "company_display": "JPMorgan",
-    "title": "Client Data Associate",
-    "location": "Bengaluru, Karnataka, India",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210793908",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-10-05T00:00:00+00:00",
-    "date_discovered": "2026-10-05T07:07:58.663414+00:00"
-  },
-  {
     "id": 18389019,
     "company_display": "NVIDIA",
     "title": "AI Agent Development Engineer (RDSS Intern)",
@@ -9238,17 +9194,6 @@
     "country": "international",
     "updated_at": "2026-10-05T12:42:17.564464+00:00",
     "date_discovered": "2026-10-05T12:43:57.149350+00:00"
-  },
-  {
-    "id": 18390005,
-    "company_display": "United Airlines",
-    "title": "Associate Analyst - Network Planning & Analytics",
-    "location": "Gurugram, Haryana, India",
-    "url": "https://ual-pro.taleo.net/careersection/10400/jobdetail.ftl?job=GGN00002606",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-10-05T11:20:47+00:00",
-    "date_discovered": "2026-10-05T12:45:19.423719+00:00"
   },
   {
     "id": 18390294,
@@ -9394,17 +9339,6 @@
     "date_discovered": "2026-10-05T17:49:35.745118+00:00"
   },
   {
-    "id": 18391735,
-    "company_display": "Cloudflare",
-    "title": "People Analytics Data Engineering Intern",
-    "location": "Austin, TX",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-05T17:59:29+00:00",
-    "date_discovered": "2026-10-05T18:05:37.573987+00:00"
-  },
-  {
     "id": 18391880,
     "company_display": "Vrtx",
     "title": "Spring Co-Op 2027, Manufacturing Digital Systems",
@@ -9524,5 +9458,346 @@
     "country": "international",
     "updated_at": "2026-10-06T02:07:18.659686+00:00",
     "date_discovered": "2026-10-06T02:10:18.721859+00:00"
+  },
+  {
+    "id": 18394633,
+    "company_display": "Texas Instruments",
+    "title": "2026 Q4 - Artificial Intelligence Intern",
+    "location": "Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018492",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-06T00:00:00+00:00",
+    "date_discovered": "2026-10-06T05:04:56.279998+00:00"
+  },
+  {
+    "id": 18394980,
+    "company_display": "Micron",
+    "title": "Intern - Business Analyst",
+    "location": "Taichung - MTB, Taiwan",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Taichung---MTB-Taiwan/Intern---Business-Analyst_JR112842",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-06T07:02:22.478321+00:00",
+    "date_discovered": "2026-10-06T07:06:54.555448+00:00"
+  },
+  {
+    "id": 18395128,
+    "company_display": "Genentech",
+    "title": "Workforce Optimization / Strategies (Data Science) Intern",
+    "location": "Basel; Rotkreuz; Mannheim; Sant Cugat del Vall\u00e8s; Penzberg",
+    "url": "https://roche.wd3.myworkdayjobs.com/en-US/roche-ext/job/Basel/Workforce-Optimization---Strategies--Data-Science--Intern_202609-124186",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-06T08:07:37.155896+00:00",
+    "date_discovered": "2026-10-06T08:07:49.785794+00:00"
+  },
+  {
+    "id": 18395248,
+    "company_display": "Zebra",
+    "title": "Computer Vision Intern",
+    "location": "Serbia Offsite",
+    "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Serbia-Offsite/Computer-Vision-Intern_JR103404-1",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-06T08:13:11.086935+00:00",
+    "date_discovered": "2026-10-06T08:13:11.755240+00:00"
+  },
+  {
+    "id": 18395292,
+    "company_display": "Micron",
+    "title": "Intern- PIE RAM (Agentic AI)",
+    "location": "Fab 10N/X, Singapore",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Fab-10NX-Singapore/Intern--PIE-RAM--Agentic-AI-_JR112779",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-06T09:02:24.837346+00:00",
+    "date_discovered": "2026-10-06T09:06:40.505459+00:00"
+  },
+  {
+    "id": 18395447,
+    "company_display": "Moodys",
+    "title": "Data Estate Summer Intern",
+    "location": "Singapore",
+    "url": "https://careers.moodys.com/en/job/singapore/data-estate-summer-intern/49841/101601004128",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-06T10:03:37.204890+00:00"
+  },
+  {
+    "id": 18396142,
+    "company_display": "General Dynamics",
+    "title": "Spring 2027 - Reliability & Performance Analytics Collegiate Associate Intern",
+    "location": "Savannah, GA, USA",
+    "url": "https://www.gd.com/careers/spring-2027-reliability-performance-analytics-collegiate-associate-intern-savannah-ga-us-235501-gac-opportunity",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T12:25:19+00:00",
+    "date_discovered": "2026-10-06T12:42:07.428618+00:00"
+  },
+  {
+    "id": 18396156,
+    "company_display": "General Dynamics",
+    "title": "Spring 2027 - AI Product Collegiate Associate Intern",
+    "location": "Savannah, GA, USA",
+    "url": "https://www.gd.com/careers/spring-2027-ai-product-collegiate-associate-intern-savannah-ga-us-236043-gac-opportunity",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T12:25:06+00:00",
+    "date_discovered": "2026-10-06T12:42:07.604257+00:00"
+  },
+  {
+    "id": 18396167,
+    "company_display": "Macys",
+    "title": "Macy's 2027 Summer Internship \u2013 Consumer Insights: Customer & Digital Intelligence and Analytics",
+    "location": "New York, NY, USA",
+    "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93380",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T00:00:00+00:00",
+    "date_discovered": "2026-10-06T12:42:08.091933+00:00"
+  },
+  {
+    "id": 18396169,
+    "company_display": "Macys",
+    "title": "Macy's 2027 Summer Internship \u2013 Customer & Digital Growth, Insights and Platforms \u2013 Data Systems",
+    "location": "New York, NY, USA",
+    "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93388",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T00:00:00+00:00",
+    "date_discovered": "2026-10-06T12:42:08.157119+00:00"
+  },
+  {
+    "id": 18396170,
+    "company_display": "Macys",
+    "title": "Macy's 2027 Summer Internship \u2013 Customer & Digital Growth, Insights and Platforms \u2013 Analytics",
+    "location": "New York, NY, USA",
+    "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/93389",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T00:00:00+00:00",
+    "date_discovered": "2026-10-06T12:42:08.174520+00:00"
+  },
+  {
+    "id": 18396732,
+    "company_display": "Cibc",
+    "title": "Business Intelligence Enterprise Anti-Money Laundering Winter 2027 Co-op",
+    "location": "Toronto, ON",
+    "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Business-Intelligence--Enterprise-Anti-Money-Laundering-Winter-2027-Co-op_2620595",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-06T14:17:23.255033+00:00",
+    "date_discovered": "2026-10-06T14:18:01.680198+00:00"
+  },
+  {
+    "id": 18396786,
+    "company_display": "Biogen",
+    "title": "Co-op, Machine Learning Engineering",
+    "location": "Remote, USA",
+    "url": "https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-06T14:19:45.071794+00:00",
+    "date_discovered": "2026-10-06T14:19:51.262222+00:00"
+  },
+  {
+    "id": 18396787,
+    "company_display": "Biogen",
+    "title": "Co-op, Integrated Insights & Analytics, Nephrology",
+    "location": "Cambridge, MA",
+    "url": "https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Cambridge-MA/Co-op--Integrated-Insights---Analytics--Nephrology_REQ24281",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T14:19:45.072376+00:00",
+    "date_discovered": "2026-10-06T14:19:51.271550+00:00"
+  },
+  {
+    "id": 18396791,
+    "company_display": "Apple",
+    "title": "Internship - Software Engineering - Wireless Data Science",
+    "location": "Germany",
+    "url": "https://jobs.apple.com/en-us/details/200686958/internship-software-engineering-wireless-data-science?team=MLAI",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-06T14:25:12.390000+00:00",
+    "date_discovered": "2026-10-06T14:36:35.679951+00:00"
+  },
+  {
+    "id": 18397048,
+    "company_display": "Marvell",
+    "title": "Machine Learning Engineer Intern, BS/MS - Summer 2027",
+    "location": "Santa Clara, CA",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989-1",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T15:18:43.215296+00:00",
+    "date_discovered": "2026-10-06T15:18:43.810883+00:00"
+  },
+  {
+    "id": 18397143,
+    "company_display": "Globalfoundries",
+    "title": "Production Control Engineering Intern",
+    "location": "USA - New York - Malta",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Technology-Development-Engineering-Intern--ULP-CMOS_JR-2503682",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T15:46:43.977458+00:00",
+    "date_discovered": "2026-10-06T15:47:02.391602+00:00"
+  },
+  {
+    "id": 18397215,
+    "company_display": "Hpe",
+    "title": "Data Sience internship",
+    "location": "Aguadilla, Puerto Rico",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Aguadilla-Puerto-Rico-Puerto-Rico/Data-Sience-internship_1214255",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T16:06:46.843213+00:00",
+    "date_discovered": "2026-10-06T16:13:37.699382+00:00"
+  },
+  {
+    "id": 18397363,
+    "company_display": "Synopsys",
+    "title": "AI & Automation Engineering Internship - Summer 2027",
+    "location": "Not specified",
+    "url": "https://synopsys.avature.net/careers/JobDetail/Intern-Technical-Engineering-19088/19088?businessTitle=AI+%26+Automation+Engineering+Internship+-+Summer+2027",
+    "skill_level": "intern",
+    "country": null,
+    "updated_at": null,
+    "date_discovered": "2026-10-06T16:39:52.919826+00:00"
+  },
+  {
+    "id": 18397514,
+    "company_display": "Meta",
+    "title": "Data Scientist Intern, Product Analytics (Summer 2027)",
+    "location": "Menlo Park, CA; New York, NY",
+    "url": "https://www.metacareers.com/profile/job_details/1633096478817942/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T17:05:13+00:00",
+    "date_discovered": "2026-10-06T17:10:57.161812+00:00"
+  },
+  {
+    "id": 18397953,
+    "company_display": "KLA",
+    "title": "PLM BI & Analytics Intern",
+    "location": "Ann Arbor, MI",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568-2",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T18:14:47.109203+00:00",
+    "date_discovered": "2026-10-06T18:14:56.432093+00:00"
+  },
+  {
+    "id": 18398108,
+    "company_display": "Jabil",
+    "title": "AI Transformation Intern",
+    "location": "Austin, TX",
+    "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers/job/Austin-TX/AI-Transformation-Intern_J2466044",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T18:44:17.036686+00:00",
+    "date_discovered": "2026-10-06T18:44:25.891938+00:00"
+  },
+  {
+    "id": 18398243,
+    "company_display": "Mit-Lincoln-Laboratory",
+    "title": "Summer Research Program Intern 2027, Secure Resilient Systems and Technology (Group 05-53)",
+    "location": "Lexington, MA",
+    "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Secure-Resilient-Systems-and-Technology-%28Group-05-53%29-MA-02420/1437449200/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-06T19:13:21.543032+00:00"
+  },
+  {
+    "id": 18398280,
+    "company_display": "Infineon",
+    "title": "Internship - AI Program and Deployment Management (f/m/div)",
+    "location": "Munich",
+    "url": "https://jobs.infineon.com/careers/job/563808972128249",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-06T19:14:22.998705+00:00"
+  },
+  {
+    "id": 18398286,
+    "company_display": "Leidos",
+    "title": "Business Systems AI Intern",
+    "location": "6314 Remote/Teleworker US",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193767",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-06T19:14:15.810753+00:00",
+    "date_discovered": "2026-10-06T19:14:25.851381+00:00"
+  },
+  {
+    "id": 18398715,
+    "company_display": "Nokia",
+    "title": "AI Engineering Co-op",
+    "location": "USA",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40812",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T00:00:00+00:00",
+    "date_discovered": "2026-10-06T20:40:13.469808+00:00"
+  },
+  {
+    "id": 18398897,
+    "company_display": "Leidos",
+    "title": "Data Science Intern",
+    "location": "Arlington, VA",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Data-Science-Intern_R-00193937",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T21:12:17.107575+00:00",
+    "date_discovered": "2026-10-06T21:13:07.631341+00:00"
+  },
+  {
+    "id": 18399030,
+    "company_display": "IBM",
+    "title": "2027 Intern \u2014 Software Developer, AI & Marketing Platforms",
+    "location": "New York, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=133462",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-06T21:41:46.774479+00:00"
+  },
+  {
+    "id": 18399176,
+    "company_display": "ABB",
+    "title": "AI Engineering, ERP Intern- Summer 2027",
+    "location": "Cary, North Carolina, USA",
+    "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T00:00:00+00:00",
+    "date_discovered": "2026-10-06T21:48:30.203632+00:00"
+  },
+  {
+    "id": 18399177,
+    "company_display": "ABB",
+    "title": "AI Engineering, Business Systems Intern- Summer 2027",
+    "location": "Cary, North Carolina, USA",
+    "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-06T00:00:00+00:00",
+    "date_discovered": "2026-10-06T21:48:30.214046+00:00"
+  },
+  {
+    "id": 18399867,
+    "company_display": "PACCAR",
+    "title": "Summer Internship - Customer Experience Analytics",
+    "location": "Renton, WA",
+    "url": "https://jobs.paccar.com/job/Renton-Summer-Internship-Customer-Experience-Analytics-WA-98055/1444982233/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-07T00:11:56.055688+00:00"
   }
 ]
